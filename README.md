@@ -1,4 +1,4 @@
-< HEAD
+
 # My Project -A Git Practice Activity
 =======
 # My project - A Git Practice Activity
